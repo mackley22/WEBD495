@@ -1,0 +1,42 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    color: #0054A6;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+nav ul {
+    list-style: none;
+    color: #0054A6;
+}
+
+nav ul li {
+    display: inline-block;
+    color: #0054A6;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0054A6;
+}
+
+nav a:hover {
+    background-color: #0054A6;
+    color: white;
+}
+  
+nav a:active {
+    background-color: lightskyblue;
+    color: white;
+}
+  
+.logo{
+    color: #0054A6;
+    font-size: 30px;
+}
+  
+  
